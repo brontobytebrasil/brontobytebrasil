@@ -1,8 +1,14 @@
 # Noa Brasil
 
 **Software engineer.** I build B2B products end to end — database to deploy, product
-design to the conversation with the customer. Five products in production, around 4,500
-commits across 20 repositories.
+design to the conversation with the customer. Five products in production, and around 4,500
+commits across 20 private repositories — client work and my own, which is why the graph on
+this page shows almost none of it.
+
+I run a company, and I am looking for a team. Those are not opposites. What I have never had
+is code review, a process I did not write myself, or an engineer more experienced than me to
+learn from — and that is the gap I want to close. **I do not mind starting as a junior to
+close it.**
 
 Fortaleza, Brazil · remote · [brontobyte.com.br](https://brontobyte.com.br) · [LinkedIn](https://www.linkedin.com/in/noa-brasil/)
 
@@ -121,7 +127,7 @@ It started in 2000 with GDI, a study group that became M&N Tecnologias, then N&R
 Tecnológicas, and since 2022 is **Brontobyte** — the company I run today, where I hold
 both the engineering and the business.
 
-Bachelor's in Software Engineering, concluding September 2026.
+Software Engineering degree completed; diploma pending.
 
 **brontobytebrasil@gmail.com**
 
@@ -133,8 +139,14 @@ Bachelor's in Software Engineering, concluding September 2026.
 <br>
 
 **Engenheiro de software.** Construo produtos B2B de ponta a ponta — do banco de dados ao
-deploy, do desenho do produto à conversa com o cliente. Cinco produtos em produção, cerca de
-4.500 commits em 20 repositórios.
+deploy, do desenho do produto à conversa com o cliente. Cinco produtos em produção, e cerca
+de 4.500 commits em 20 repositórios privados — trabalho de cliente e meu, que é por isso que
+o gráfico desta página mostra quase nada disso.
+
+Eu toco uma empresa e estou procurando um time. Não são coisas opostas. O que eu nunca tive
+foi revisão de código, um processo que não fui eu que escrevi, ou um engenheiro mais
+experiente de quem aprender — e é essa a lacuna que eu quero fechar. **Não me importo de
+começar como júnior para fechá-la.**
 
 Fortaleza, Ceará · atendo remoto
 
@@ -233,6 +245,6 @@ Começou em 2000 com o GDI, um grupo de estudos que virou M&N Tecnologias, depoi
 Soluções Tecnológicas, e desde 2022 é a **Brontobyte** — a empresa que eu toco hoje, onde
 respondo pela engenharia e pelo negócio.
 
-Bacharelado em Engenharia de Software, concluindo em setembro de 2026.
+Bacharelado em Engenharia de Software concluído; diploma a receber.
 
 </details>

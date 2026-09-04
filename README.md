@@ -41,7 +41,8 @@ June. It went from close to zero to roughly 20,000 impressions a day over that p
 
 **[app.oficinavision.com.br](https://app.oficinavision.com.br)** — the platform behind it:
 multi-tenant SaaS for the automotive sector, with **17 workshops across 5 states** testing it
-and 33,000+ work orders handled in six months. Work orders opened and filled by voice, with
+and 33,000+ work orders in six months, both created in the system and migrated through
+integration. Work orders opened and filled by voice, with
 real-time AI: the camera reads the licence plate and an assistant returns the vehicle's
 technical data on the technician's screen. The same engine serves 14 business segments
 through configuration, with no code fork. Installable PWA, with subscription, recurring
@@ -120,7 +121,7 @@ It started in 2000 with GDI, a study group that became M&N Tecnologias, then N&R
 Tecnológicas, and since 2022 is **Brontobyte** — the company I run today, where I hold
 both the engineering and the business.
 
-Currently finishing a Bachelor's in Software Engineering (September 2026).
+Bachelor's in Software Engineering, concluding September 2026.
 
 **brontobytebrasil@gmail.com**
 
@@ -168,7 +169,7 @@ zero para cerca de 20.000 impressões por dia nesse período.
 
 **[app.oficinavision.com.br](https://app.oficinavision.com.br)** — a plataforma por trás
 dele: SaaS multi-tenant para o setor automotivo, com **17 oficinas em 5 estados** testando e
-mais de 33.000 ordens de serviço em seis meses. Ordem de serviço aberta e preenchida por voz,
+mais de 33.000 ordens de serviço em seis meses, geradas no sistema e migradas por integração. Ordem de serviço aberta e preenchida por voz,
 com IA em tempo real: a câmera lê a placa e um assistente devolve o dado técnico do veículo
 na tela do técnico. O mesmo motor atende 14 segmentos por configuração, sem fork de código.
 PWA instalável, com assinatura, cobrança recorrente e estorno resolvidos dentro do app.
@@ -232,6 +233,6 @@ Começou em 2000 com o GDI, um grupo de estudos que virou M&N Tecnologias, depoi
 Soluções Tecnológicas, e desde 2022 é a **Brontobyte** — a empresa que eu toco hoje, onde
 respondo pela engenharia e pelo negócio.
 
-Terminando o Bacharelado em Engenharia de Software (setembro de 2026).
+Bacharelado em Engenharia de Software, concluindo em setembro de 2026.
 
 </details>

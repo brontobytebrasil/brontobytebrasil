@@ -47,7 +47,7 @@ technical data on the technician's screen. The same engine serves 14 business se
 through configuration, with no code fork. Installable PWA, with subscription, recurring
 billing and refunds handled in-app.
 
-**Fox Elite Concursos** — study platform for Brazilian public-service examinations, in
+**[elite.foxconcursos.com.br](https://elite.foxconcursos.com.br)** — Fox Elite Concursos: study platform for Brazilian public-service examinations, in
 Spring Boot with Java 21 and React. I took the question-bank search from **745ms to 22ms**
 with a trigram index built without locking the table in production, and cut around **85% of
 the AI processing cost** for the whole content base by changing models after measuring
@@ -173,7 +173,8 @@ com IA em tempo real: a câmera lê a placa e um assistente devolve o dado técn
 na tela do técnico. O mesmo motor atende 14 segmentos por configuração, sem fork de código.
 PWA instalável, com assinatura, cobrança recorrente e estorno resolvidos dentro do app.
 
-**Fox Elite Concursos** — plataforma de estudo para concursos públicos, em Spring Boot com
+**[elite.foxconcursos.com.br](https://elite.foxconcursos.com.br)** — Fox Elite Concursos:
+plataforma de estudo para concursos públicos, em Spring Boot com
 Java 21 e React. Levei a busca do banco de questões de **745ms para 22ms** com índice trigram
 criado sem travar a tabela em produção, e cortei cerca de **85% do custo de processamento de
 IA** de toda a base trocando o modelo, depois de medir a qualidade nos dois. **48.093**

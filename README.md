@@ -51,7 +51,7 @@ and 33,000+ work orders in six months, both created in the system and migrated t
 integration. Work orders opened and filled by voice, with
 real-time AI: the camera reads the licence plate and an assistant returns the vehicle's
 technical data on the technician's screen. The same engine serves 14 business segments
-through configuration, with no code fork. Installable PWA, with subscription, recurring
+and counting, through configuration, with no code fork. Installable PWA, with subscription, recurring
 billing and refunds handled in-app.
 
 **[elite.foxconcursos.com.br](https://elite.foxconcursos.com.br)** — Fox Elite Concursos: study platform for Brazilian public-service examinations, in
@@ -183,7 +183,7 @@ zero para cerca de 20.000 impressões por dia nesse período.
 dele: SaaS multi-tenant para o setor automotivo, com **17 oficinas em 5 estados** testando e
 mais de 33.000 ordens de serviço em seis meses, geradas no sistema e migradas por integração. Ordem de serviço aberta e preenchida por voz,
 com IA em tempo real: a câmera lê a placa e um assistente devolve o dado técnico do veículo
-na tela do técnico. O mesmo motor atende 14 segmentos por configuração, sem fork de código.
+na tela do técnico. O mesmo motor atende 14 segmentos e crescendo, por configuração, sem fork de código.
 PWA instalável, com assinatura, cobrança recorrente e estorno resolvidos dentro do app.
 
 **[elite.foxconcursos.com.br](https://elite.foxconcursos.com.br)** — Fox Elite Concursos:
